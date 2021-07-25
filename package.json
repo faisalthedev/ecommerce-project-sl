@@ -1,0 +1,25 @@
+{
+	"name": "ecommerce-project",
+	"version": "1.0.0",
+	"description": "eCommerce project from Stack Leaner ",
+	"main": "main.js",
+	"scripts": {
+		"sass": "sass ./scss/main.scss ./css/style.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/faisalthedev/ecommerce-project-sl.git"
+	},
+	"author": "Faisal Ahammad",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/faisalthedev/ecommerce-project-sl/issues"
+	},
+	"homepage": "https://github.com/faisalthedev/ecommerce-project-sl#readme",
+	"dependencies": {
+		"bootstrap": "^5.0.2"
+	},
+	"devDependencies": {
+		"sass": "^1.36.0"
+	}
+}
