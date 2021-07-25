@@ -4,7 +4,7 @@
 	"description": "eCommerce project from Stack Leaner ",
 	"main": "main.js",
 	"scripts": {
-		"sass": "sass ./scss/main.scss ./css/style.css"
+		"sass": "sass ./scss/main.scss ./css/style.css --watch"
 	},
 	"repository": {
 		"type": "git",
@@ -17,6 +17,7 @@
 	},
 	"homepage": "https://github.com/faisalthedev/ecommerce-project-sl#readme",
 	"dependencies": {
+		"@fortawesome/fontawesome-free": "^5.15.3",
 		"bootstrap": "^5.0.2"
 	},
 	"devDependencies": {
